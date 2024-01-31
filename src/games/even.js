@@ -1,9 +1,9 @@
 import readlineSync from 'readline-sync';
 
-const isEven = (number) => number % 2 === 0;
-
-const getCorrectAnswer = (number) => (isEven(number) ? 'yes' : 'no');
 const playGame = () => {
+  const isEven = (number) => number % 2 === 0;
+
+  const getCorrectAnswer = (number) => (isEven(number) ? 'yes' : 'no');
   console.log('Welcome to the Brain Games!');
   const name = readlineSync.question('May I have your name? ');
   console.log(`Hello, ${name}!`);
