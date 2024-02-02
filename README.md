@@ -4,3 +4,4 @@
 [Аскинема на игру "Brain Even"](https://asciinema.org/a/fV2S7P5UBGkivkLSyUgByrZQb)
 [ Аскинема на игру "Brain-cacl"](https://asciinema.org/a/EyxvDpahrDWZBjjTy9ckUf0Gj)
 [Аскинема на игру наибольший общий делитель](https://asciinema.org/a/WijEujfVr6pQytTHYulbTSUwY)
+[Аскинема на игру Арифметическая прогрессия](https://asciinema.org/a/vfsMMX0jPlhl9xW4t6cZspe9y)
