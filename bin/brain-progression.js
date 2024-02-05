@@ -2,6 +2,6 @@
 import playGame from '../src/index.js';
 import getQuestionAndAnswer from '../src/games/progression.js';
 
-const gameDescription = 'Answer "yes" if given number is prime. Otherwise answer "no".';
+const gameDescription = 'What number is missing in the progression?';
 
 playGame(gameDescription, getQuestionAndAnswer);
